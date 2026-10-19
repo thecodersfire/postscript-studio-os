@@ -24,3 +24,9 @@ The `postscript-studio.svg` wallpaper is original. Postscript Studio OS is an in
 
 See [FEATURES.md](FEATURES.md) for three local tools included for blog publishing.
 
+
+The installer also includes three purpose-specific applications: **Inkscape, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Inkscape, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Inkscape, Krita, Kdenlive**. See [FEATURES.md](FEATURES.md).
